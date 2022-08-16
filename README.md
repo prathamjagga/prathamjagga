@@ -2,9 +2,9 @@
 
 I am Pratham Jagga, currently pursuing my Bachelor Of Technology in Computer Science. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[!LinkedIn](https://www.linkedin.com/in/pratham-jagga-5894a9138/)
-[!Gmail](mailto:prathamjagga123@gmail.com)
-[!Website](https://prathamjagga.netlify.app/)
+[LinkedIn](https://www.linkedin.com/in/pratham-jagga-5894a9138/)
+[Gmail](mailto:prathamjagga123@gmail.com)
+[Website](https://prathamjagga.netlify.app/)
 
 [![Khushi's github activity graph](https://activity-graph.herokuapp.com/graph?username=prathamjagga&theme=xcode)](https://git.io/prathamjagga)
 
