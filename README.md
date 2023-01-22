@@ -7,7 +7,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 [LinkedIn](https://www.linkedin.com/in/pratham-jagga-5894a9138/)
 [Gmail](mailto:prathamjagga123@gmail.com)
-[Website](https://prathamjagga.netlify.app/)
+<!-- [Website](https://prathamjagga.netlify.app/) -->
 
 
 ## ⚡ Technologies
