@@ -9,7 +9,6 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 [Gmail](mailto:prathamjagga123@gmail.com)
 [Website](https://prathamjagga.netlify.app/)
 
-[![Khushi's github activity graph](https://activity-graph.herokuapp.com/graph?username=prathamjagga&theme=xcode)](https://git.io/prathamjagga)
 
 ## ⚡ Technologies
 
