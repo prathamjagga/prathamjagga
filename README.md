@@ -12,7 +12,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 ## ⚡ Technologies
 
-### Language :
+### Languages :
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
