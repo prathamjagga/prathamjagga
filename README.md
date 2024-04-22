@@ -1,12 +1,11 @@
-## Hi, I am Pratham! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi, Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Pratham Jagga, currently working as an SE at [cloudEQ](https://www.linkedin.com/company/cloudeq/). <br>
+I am Pratham Jagga, currently working as an SSE at Adjust. <br>
 I am a tech enthusiast. <br>
 I listen to slow pop music 12 hours a day 🎵🎧. <br>
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here: <br>
 
-[LinkedIn](https://www.linkedin.com/in/pratham-jagga-5894a9138/)
-[Gmail](mailto:prathamjagga123@gmail.com)
+
 <!-- [Website](https://prathamjagga.netlify.app/) -->
 
 
