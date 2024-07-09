@@ -21,4 +21,4 @@
 [automarket]: https://automarket-s42l.vercel.app/
 [write]: https://dev.to/prathamjagga
 [cloudEQ]: https://cloudeq.com
-[Substack]: https://hiptatham.substack.com
+[Substack]: https://hipratham.substack.com
