@@ -1,46 +1,16 @@
-## Hi, Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+<img align="left" width="150" height="150" alt="Pratham Jagga" src="https://sdk.bitmoji.com/render/panel/dc878a02-6c0d-4366-ab3b-b86a397e31ad-9abca207-e196-4c3e-8932-0fae4ce0c737-v1.png?transparent=1&palette=1"/>
 
-Hi, I'm Pratham Jagga, currently working as an SE at CloudEQ. <br>
-I am a tech enthusiast. <br>
-I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here: <br>
+## I'm [Pratham Jagga][homepage]
 
+A Software developer from Chandigarh. I'm currently building Automarket. I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
 
-<!-- [Website](https://prathamjagga.netlify.app/) -->
-
-
-## ⚡ Technologies
-
-### Languages :
-
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-
-### Libraries & Framework :
-
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-
-### Tools:
-
-<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a> 
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-
-## 📈 Stats
-
-<p align="center">
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prathamjagga&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamjagga&theme=tokyonight" />
-</p>
-
-<br>
+[![Twitter Follow](https://img.shields.io/twitter/follow/prathamjagga123?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)][twitter] [![Twitch Status](https://img.shields.io/twitch/status/prathamjagga?label=LiveStream&style=for-the-badge)][twitch] [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/dani_akash_?style=for-the-badge)][reddit]
 
 
+[homepage]: https://daniakash.com
+[twitter]: https://twitter.com/dani_akash_
+[twitch]: https://www.twitch.tv/dani_akash_
+[reddit]: https://www.reddit.com/user/dani_akash_
+[github]: https://github.com/daniakash
+[about-bangalore]: https://www.google.com/search?q=bangalore
+[oslash]: https://oslash.com
