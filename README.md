@@ -2,7 +2,6 @@
 
 Hi, I'm Pratham Jagga, currently working as an SE at CloudEQ. <br>
 I am a tech enthusiast. <br>
-I listen to slow pop music 12 hours a day 🎵🎧. <br>
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here: <br>
 
 
