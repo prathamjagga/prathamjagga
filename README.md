@@ -2,14 +2,14 @@
 
 ## I'm [Pratham Jagga][homepage]
 
-A Software developer from Chandigarh. I'm currently building Automarket. I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
+A Software developer from Chandigarh. I'm currently building [Automarket][https://automarket-s42l.vercel.app/] I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/prathamjagga123?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)][twitter] [![Twitch Status](https://img.shields.io/twitch/status/prathamjagga?label=LiveStream&style=for-the-badge)][twitch] [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/dani_akash_?style=for-the-badge)][reddit]
 
 
-[homepage]: https://daniakash.com
-[twitter]: https://twitter.com/dani_akash_
-[twitch]: https://www.twitch.tv/dani_akash_
+[homepage]: https://linkedin.com/in/pratham-jagga
+[twitter]: https://twitter.com/prathamjagga123
+[twitch]: https://www.twitch.tv/prathamjagga
 [reddit]: https://www.reddit.com/user/dani_akash_
 [github]: https://github.com/daniakash
 [about-bangalore]: https://www.google.com/search?q=bangalore
