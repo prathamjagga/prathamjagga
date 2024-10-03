@@ -7,7 +7,7 @@
  - Writing for my 10k+ [Substack][Substack] Family
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/prathamjagga123?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)][twitter] [![Twitch Status](https://img.shields.io/twitch/status/prathamjagga?label=LiveStream&style=for-the-badge)][twitch] [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/dani_akash_?style=for-the-badge)][reddit]
+[![Twitter Follow](https://img.shields.io/twitter/follow/prathamjagga123?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)][twitter] [![Twitch Status](https://img.shields.io/twitch/status/prathamjagga?label=LiveStream&style=for-the-badge)][twitch]
 
 
 [homepage]: https://linkedin.com/in/pratham-jagga
