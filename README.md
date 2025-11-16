@@ -6,7 +6,7 @@
     <td>
       <h2>I'm Pratham Jagga</h2>
       <p>
-        I love to build applications and <a href="https://dev.to/prathamjagga">write</a> about Cloud Native, Automation, Orchestration and Scalability.<br>
+        I love to build applications and <a href="https://dev.to/prathamjagga">write</a> comprehensive blogs on software engineering topics.<br>
         - Currently working as a Software Engineer @ <a href="https://cloudeq.com">cloudEQ</a><br>
         - Building <a href="https://automarket-s42l.vercel.app/">Automarket</a><br>
         - Writing for my <a href="https://hipratham.substack.com">Substack</a> Family
