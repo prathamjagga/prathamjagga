@@ -17,7 +17,7 @@
 
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/prathamjagga123?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)][twitter] 
+[![Twitter Follow](https://img.shields.io/twitter/follow/hiprathamhere?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)][twitter] 
 
 
 [homepage]: https://linkedin.com/in/pratham-jagga
