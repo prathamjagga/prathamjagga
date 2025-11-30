@@ -7,7 +7,7 @@
       <h2>I'm Pratham Jagga</h2>
       <p>
         I love to build applications and <a href="https://dev.to/prathamjagga">write</a> comprehensive blogs on software engineering topics.<br>
-        - Currently working as a Software Engineer @ <a href="https://cloudeq.com">cloudEQ</a><br>
+        - Currently working as a Software Engineer @ <a href="https://zyod.com">Zyod</a>.<br>
         - Building <a href="https://stepcode.povtech.dev">Stepcode</a>.<br>
         - Writing programming blogs on <a href="https://dev.to/prathamjagga">DEV</a>.
       </p>
