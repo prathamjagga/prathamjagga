@@ -8,8 +8,8 @@
       <p>
         I love to build applications and <a href="https://dev.to/prathamjagga">write</a> comprehensive blogs on software engineering topics.<br>
         - Currently working as a Software Engineer @ <a href="https://cloudeq.com">cloudEQ</a><br>
-        - Building <a href="https://automarket-s42l.vercel.app/">Automarket</a><br>
-        - Writing for my <a href="https://hipratham.substack.com">Substack</a> Family
+        - Building <a href="https://stepcode.povtech.dev">Stepcode</a>.<br>
+        - Writing programming blogs on <a href="https://dev.to/prathamjagga">DEV</a>.
       </p>
     </td>
   </tr>
